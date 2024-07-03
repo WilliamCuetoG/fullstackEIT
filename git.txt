@@ -1,6 +1,6 @@
 
 
-1. Git init => Inicia un repositorio local (Copia todo lo que tengo en el directorio donde lo inicio)
+1. Git init => Inicia un repositorio local, una sola vez (Copia todo lo que tengo en el directorio donde lo inicio)
 
 2. U => Sin seguimiento: no estan guardados en el repositorio local
 
