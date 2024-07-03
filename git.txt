@@ -22,3 +22,7 @@
 -Ej. Git commit -m "Saludos"
 
 7. Si tocamos algo, volvemos a iniciar, menos el numero 1.
+
+8. Git status => Consulta el estado de Git
+
+9. Git no guarda directorios vacios por default
