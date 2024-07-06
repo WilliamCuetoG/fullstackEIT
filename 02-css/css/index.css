@@ -8,6 +8,25 @@
 */
 
 p{
+    /* 16px por default */
     font-size: 35px;
     color: saddlebrown;
+}
+
+div {
+    color: blue
+}
+
+/*1. Selector con ID, usarlo preferentemente una sola vez*/
+#colorMarron{
+    color: brown
+}
+
+/* 2. Selector de CLASE; si lo podemos utilizar mas de una vez*/
+.colorFondo{
+    background: violet;
+}
+
+.textoGrande{
+    font-size: 60px;
 }
